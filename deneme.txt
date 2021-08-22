@@ -2,3 +2,5 @@ merhaba
 Yusuf
 test
 cakisma olacak
+deneme remote
+
